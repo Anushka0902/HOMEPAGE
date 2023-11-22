@@ -1,6 +1,6 @@
 # Simple landing page
 
-Simple landing page built with Next.js and Material-UI
+Simple landing page 
 
 ## Major technologies
 
